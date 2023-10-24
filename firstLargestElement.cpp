@@ -22,7 +22,7 @@ int main()
 
     for (int i = 0; i < n; i++)
     {
-        if (arr[i] > arr[0])
+        if (arr[i] > max)
         {
             max = arr[i];
         }
