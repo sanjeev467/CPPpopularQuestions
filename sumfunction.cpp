@@ -10,8 +10,8 @@ int sum(int a, int b)
 
 int main()
 {
-    int a = 20;
-    int b = 30;
+    // int a = 20;
+    // int b = 30;
 
     int total = sum(20, 30);
     cout << total << endl;
