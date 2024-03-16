@@ -20,9 +20,8 @@ int main()
     cout << endl;
 
     int key = 4;
-    5
 
-        for (int i = 0; i < n; i++)
+    for (int i = 0; i < n; i++)
     {
         if (key == arr[i])
         {
